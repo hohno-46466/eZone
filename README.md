@@ -10,7 +10,7 @@ Providing general information for the files and folders in the "eZone".
 
 ## Description
 
-See 00README.txt
+(See 00README.txt)
 
 ## Requirement
 
