@@ -1,88 +1,70 @@
 # eZone
 Education Zone
 
-    ./eZone
-     ├── 00README.txt
-     └── README.md
-
-    ./eZone--mgmgws1908
-     ├── README.md
+     eZone--mgmgws1908
      └── arduino
-         ├── 00README.txt
          ├── sketch20190819a_00_Blank
-         │   └── sketch20190819a_00_Blank.ino
          ├── sketch20190819b-Blink
-         │   └── sketch20190819b-Blink.ino
          ├── sketch20190820a_AnalogReadSerial_POT1
-         │   └── sketch20190820a_AnalogReadSerial1.ino
          ├── sketch20190820b_AnalogReadSerial_POT3
-         │   └── sketch20190820a_AnalogReadSerial3.ino
          └── sketch20190820c_SerialReadAnalog_POT3
-             └── sketch20190820c_SerialReadAnalog_POT3.ino
 
-    ./eZone--mgmgws201909
-     ├── README.md
+     eZone--mgmgws201909
      └── examples
-         ├── 00README.txt
          ├── 20190913a_Blank
-         │   ├── README.md
          │   ├── arduino
          │   │   └── sketch20190913a_Blank
-         │   │       └── sketch20190913a_Blank.ino
          │   └── scripts
          ├── 20190913b_SimpleBlink
-         │   ├── README.md
          │   ├── arduino
          │   │   └── sketch20190913b_SimpleBlink
-         │   │       └── sketch20190913b_SimpleBlink.ino
          │   └── scripts
          ├── 20190913c_Blink_3LEDs
-         │   ├── README.md
          │   ├── arduino
          │   │   ├── sketch20190913c2_Blink_3LEDs
-         │   │   │   └── sketch20190913c2_Blink_3LEDs.ino
          │   │   └── sketch20190913c_Blink_3LEDs
-         │   │       └── sketch20190913c_Blink_3LEDs.ino
          │   └── scripts
          ├── 20190913d_AnalogReadSerial_1POT
-         │   ├── README.md
          │   ├── arduino
          │   │   └── sketch20190913d_AnalogReadSerial_1POT
-         │   │       └── sketch20190913d_AnalogReadSerial_1POT.ino
          │   └── scripts
          ├── 20190913e_AnalogReadSerial_3POTs
-         │   ├── README.md
          │   ├── arduino
          │   │   └── sketch20190913e_AnalogReadSerial_3POTs
-         │   │       └── sketch20190913e_AnalogReadSerial_3POTs.ino
          │   └── scripts
          ├── 20190913f_SerialReadAnalog_3LEDs
-         │   ├── README.md
          │   ├── arduino
          │   │   └── sketch20190913f_SerialReadAnalog_3LEDs
-         │   │       └── sketch20190913f_SerialReadAnalog_3LEDs.ino
          │   └── scripts
          ├── 20190913g_simpleMQTT
-         │   ├── REAME.md
          │   └── scripts
          ├── 20190913h_moreMQTT
-         │   ├── README.md
          │   └── scripts
          ├── 20190913j_moreMonogramming
-         │   ├── README.md
          │   └── scripts
          └── 20190913k_kotoriotoko
-             ├── README.md
              └── scripts
 
-    ./eZone--mgws2020-02
+     eZone--mgws--2107
      ├── Arduino
-     │   ├── 00README.txt
-     │   └── sketch_20200131a_Ain3SW3Aout3Dout1Serial1
-     │       └── sketch_20200131a_Ain3SW3Aout3Dout1Serial1.ino
-     └── README.md
+     │   ├── sketch_20210723_GBKA_Blink
+     │   ├── sketch_20210723_Lesson0
+     │   ├── sketch_20210723_Lesson0_with_blink
+     │   ├── sketch_20210723_Lesson0_with_blink_and_millis
+     │   ├── sketch_20210723_Lesson0_with_blink_millis_and_keywords
+     │   ├── sketch_20210723_Lesson2
+     │   ├── sketch_20210723_Lesson2_with_counter
+     │   ├── sketch_20210723_Lesson2_with_notify
+     │   └── sketch_20210723_Lesson2_with_notify_millis_and_keywords
+     ├── documents
+     ├── examples
+     └── misc
+
+     eZone--mgws2020-02
+     └── Arduino
+         └── sketch_20200131a_Ain3SW3Aout3Dout1Serial1
      
-     42 directories, 31 files (Tue Jun 29 07:09:04 JST 2021)
+     55 directories ( Mon Jul 26 22:14:25 JST 2021 )
 
 <!---
 
