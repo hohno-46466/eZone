@@ -1,5 +1,4 @@
-# eZone
-Education Zone
+# eZone - Education Zone
 
      eZone--mgmgws1908
      └── arduino
