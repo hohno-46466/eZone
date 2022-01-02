@@ -1,5 +1,7 @@
 # GitHub/eZone - Education Zone
 
+Education Zone
+
      eZone--mgmgws1908
      └── arduino
          ├── sketch20190819a_00_Blank
@@ -107,8 +109,8 @@ Thu Apr  9 14:57:40 JST 2020
 
 -->
 
-Note: 	url = https://github.com/hohno-46466/eZone
+Note:	url = https://github.com/hohno-46466/eZone
 
-Note:   url = git@github.com:hohno-46466/eZone.git
+Note:	url = git@github.com:hohno-46466/eZone.git
 
 -EOF-
