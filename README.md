@@ -2,7 +2,7 @@
 
 Education Zone
 
-     eZone--mgmgws1908
+     ./eZone--mgmgws1908
      └── arduino
          ├── sketch20190819a_00_Blank
          ├── sketch20190819b-Blink
@@ -10,7 +10,7 @@ Education Zone
          ├── sketch20190820b_AnalogReadSerial_POT3
          └── sketch20190820c_SerialReadAnalog_POT3
 
-     eZone--mgmgws201909
+     ./eZone--mgmgws201909
      └── examples
          ├── 20190913a_Blank
          │   ├── arduino
@@ -46,7 +46,7 @@ Education Zone
          └── 20190913k_kotoriotoko
              └── scripts
 
-     eZone--mgws--2107
+     ./eZone--mgws--2107
      ├── Arduino
      │   ├── sketch_20210723_GBKA_Blink
      │   ├── sketch_20210723_Lesson0
@@ -61,7 +61,7 @@ Education Zone
      ├── examples
      └── misc
 
-     eZone--mgws2020-02
+     ./eZone--mgws2020-02
      └── Arduino
          └── sketch_20200131a_Ain3SW3Aout3Dout1Serial1
      
