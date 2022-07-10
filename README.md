@@ -7,13 +7,13 @@ Education Zone
      ├──   README.md
      └──   README.md.old
      
-     0 directories, 3 files (Sun Jul 10 12:22:50 JST 2022)
+     0 directories, 3 files (Sun Jul 10 12:29:00 JST 2022)
 
 
     ./eZone--BDP--SLCS2021
      └──   README.md
      
-     0 directories, 1 file (Sun Jul 10 12:22:50 JST 2022)
+     0 directories, 1 file (Sun Jul 10 12:29:00 JST 2022)
 
 
     ./eZone--mgmg--KU2204
@@ -58,7 +58,7 @@ Education Zone
          ├──   addts.sh
          └──   addts.sh.old
      
-     15 directories, 25 files (Sun Jul 10 12:22:50 JST 2022)
+     15 directories, 25 files (Sun Jul 10 12:29:00 JST 2022)
 
 
     ./eZone--mgmg--UCI2021
@@ -131,7 +131,7 @@ Education Zone
      └──  scripts/
          └──   README.md
      
-     35 directories, 33 files (Sun Jul 10 12:22:50 JST 2022)
+     35 directories, 33 files (Sun Jul 10 12:29:00 JST 2022)
 
 
     ./eZone--mgmgws1908
@@ -149,7 +149,7 @@ Education Zone
          └──  sketch20190820c_SerialReadAnalog_POT3/
              └──   sketch20190820c_SerialReadAnalog_POT3.ino
      
-     6 directories, 7 files (Sun Jul 10 12:22:50 JST 2022)
+     6 directories, 7 files (Sun Jul 10 12:29:00 JST 2022)
 
 
     ./eZone--mgmgws201909
@@ -183,7 +183,7 @@ Education Zone
          └──  20190913k_kotoriotoko/
              └──   README.md
      
-     17 directories, 12 files (Sun Jul 10 12:22:50 JST 2022)
+     17 directories, 12 files (Sun Jul 10 12:29:00 JST 2022)
 
 
     ./eZone--mgws--2107
@@ -226,7 +226,7 @@ Education Zone
      └──  misc/
          └──   README.md
      
-     13 directories, 25 files (Sun Jul 10 12:22:50 JST 2022)
+     13 directories, 25 files (Sun Jul 10 12:29:00 JST 2022)
 
 
     ./eZone--mgws--2108
@@ -290,7 +290,7 @@ Education Zone
      └──  scripts/
          └──   README.md
      
-     28 directories, 31 files (Sun Jul 10 12:22:50 JST 2022)
+     28 directories, 31 files (Sun Jul 10 12:29:00 JST 2022)
 
 
     ./eZone--mgws2020-02
@@ -300,7 +300,7 @@ Education Zone
      │       └──   sketch_20200131a_Ain3SW3Aout3Dout1Serial1.ino
      └──   README.md
      
-     2 directories, 3 files (Sun Jul 10 12:22:50 JST 2022)
+     2 directories, 3 files (Sun Jul 10 12:29:00 JST 2022)
 
 
 Note:	url = https://github.com/hohno-46466/eZone
