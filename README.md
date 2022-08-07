@@ -339,8 +339,8 @@ Education Zone
      2 directories, 5 files (Mon Aug  8 02:56:11 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/eZone
+Note: URL = https://github.com/hohno-46466/eZone
 
-Note: url = git@github.com:hohno-46466/eZone.git
+Note: URL = git@github.com:hohno-46466/eZone.git
 
 -EOF-
