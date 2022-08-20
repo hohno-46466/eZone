@@ -7,14 +7,14 @@ Education Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Mon Aug  8 02:56:10 JST 2022)
+     0 directories, 3 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./eZone--BDP--SLCS2021
      ├──  README.md
      ├──  README.md.bak
      └──  README.md.old
      
-     0 directories, 3 files (Mon Aug  8 02:56:10 JST 2022)
+     0 directories, 3 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./eZone--mgmg--KU2204
      ├──  README.md
@@ -59,7 +59,7 @@ Education Zone
          ├──  addts.sh
          └──  addts.sh.old
      
-     15 directories, 26 files (Mon Aug  8 02:56:10 JST 2022)
+     15 directories, 26 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./eZone--mgmg--UCI2021
      ├──  README.md
@@ -133,7 +133,7 @@ Education Zone
      └──  scripts/
          └──  README.md
      
-     35 directories, 35 files (Mon Aug  8 02:56:10 JST 2022)
+     35 directories, 35 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./eZone--mgmgws1908
      ├──  README.md
@@ -152,7 +152,7 @@ Education Zone
          └──  sketch20190820c_SerialReadAnalog_POT3/
              └──  sketch20190820c_SerialReadAnalog_POT3.ino
      
-     6 directories, 9 files (Mon Aug  8 02:56:10 JST 2022)
+     6 directories, 9 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./eZone--mgmgws201909
      ├──  README.md
@@ -194,7 +194,7 @@ Education Zone
          └──  20190913k_kotoriotoko/
              └──  README.md
      
-     24 directories, 14 files (Mon Aug  8 02:56:11 JST 2022)
+     24 directories, 14 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./eZone--mgws--2107
      ├──  Arduino/
@@ -238,7 +238,7 @@ Education Zone
      └──  misc/
          └──  README.md
      
-     13 directories, 27 files (Mon Aug  8 02:56:11 JST 2022)
+     13 directories, 27 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./eZone--mgws--2108
      ├──  Arduino/
@@ -312,11 +312,17 @@ Education Zone
      └──  scripts/
          └──  README.md
      
-     28 directories, 42 files (Mon Aug  8 02:56:11 JST 2022)
+     28 directories, 42 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./eZone--mgws--2208
+     ├──  Links.md
      ├──  README.md
      ├──  documents/
+     │   ├──  0.General.md
+     │   ├──  1.Block1.md
+     │   ├──  2.Block2.md
+     │   ├──  3.Block3.md
+     │   ├──  9.Information.md
      │   └──  README.md
      ├──  examples/
      │   └──  README.md
@@ -325,7 +331,7 @@ Education Zone
      └──  scripts/
          └──  README.md
      
-     4 directories, 5 files (Mon Aug  8 02:56:11 JST 2022)
+     4 directories, 11 files (Fri Aug 12 21:57:34 JST 2022)
 
     ./eZone--mgws2020-02
      ├──  Arduino/
@@ -336,7 +342,7 @@ Education Zone
      ├──  README.md.bak
      └──  README.md.old
      
-     2 directories, 5 files (Mon Aug  8 02:56:11 JST 2022)
+     2 directories, 5 files (Fri Aug 12 21:57:34 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/eZone
